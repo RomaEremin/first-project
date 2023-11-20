@@ -7,9 +7,9 @@ Text 1
 
 [Progresstech](https://progresstech.ru/ru/?q= "Прогресстех!")
 
-'''bash
+```bash
 ls -la
-'''
+```
 
 ## HEADER 2
 
