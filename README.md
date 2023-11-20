@@ -14,3 +14,14 @@ ls -la
 ## HEADER 2
 
 ### HEADER 3
+
+# COMMIT BLOCK SCHEME
+
+```mermaid
+graph LR;
+	untracked -- "git add" --> staged;
+	staged    -- "???"     --> tracked/commited;
+
+%% стрелка без текста для примера:
+	A --> B;
+```
